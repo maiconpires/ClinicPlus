@@ -1,0 +1,12 @@
+{
+	"name": "App Android",
+	"description": "",
+	"version": "1.0.0",
+	"homepage": "",
+	"mainsrc": "./",
+	"projects": [],
+	"dependencies": {
+		"github.com/viniciussanchez/dataset-serialize": "^v2.4.8",
+		"github.com/viniciussanchez/restrequest4delphi": "^v3.1.0"
+	}
+}
